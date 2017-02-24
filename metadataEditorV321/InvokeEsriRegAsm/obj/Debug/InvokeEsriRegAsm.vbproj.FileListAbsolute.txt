@@ -1,0 +1,10 @@
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\bin\Debug\InvokeEsriRegAsm.dll
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\bin\Debug\InvokeEsriRegAsm.pdb
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\bin\Debug\InvokeEsriRegAsm.xml
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\obj\Debug\InvokeEsriRegAsm.Resources.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\obj\Debug\ResGen.read.1.tlog
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\obj\Debug\ResGen.write.1.tlog
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\obj\Debug\InvokeEsriRegAsm.dll
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\obj\Debug\InvokeEsriRegAsm.xml
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\InvokeEsriRegAsm\obj\Debug\InvokeEsriRegAsm.pdb

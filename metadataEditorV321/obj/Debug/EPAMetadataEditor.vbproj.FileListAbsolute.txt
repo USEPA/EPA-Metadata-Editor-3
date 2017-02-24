@@ -1,0 +1,74 @@
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\EPAMetadataEditor.Resources.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\EPAMetadataEditor.SyncManagerForm.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\ResGen.read.1.tlog
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\ResGen.write.1.tlog
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\bin\Debug\Resources\epa_seal_verysmall_trim.gif
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\bin\Debug\EPAMetadataEditor.dll.config
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\bin\Debug\EPAMetadataEditor.dll
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\bin\Debug\EPAMetadataEditor.pdb
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\EPAMetadataEditor.dll
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\EPAMetadataEditor.pdb
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\bin\Debug\EPAMetadataEditor.tlb
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\bin\Debug\Interop.MSXML2.dll
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\Interop.MSXML2.dll
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\EPAMetadataEditor.vbproj.ResolveComReference.cache
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\bin\Debug\EPAMetadataEditor.xml
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\EPAMetadataEditor.xml
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\EPAMetadataEditor.BatchFindReplaceForm.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\obj\Debug\EPAMetadataEditor.SelectExportFormatsForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\Interop.MSXML2.dll
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.vbproj.ResolveComReference.cache
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.BatchFindReplaceForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.Resources.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.SelectExportFormatsForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.SyncManagerForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\ResGen.read.1.tlog
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\ResGen.write.1.tlog
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.xml
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.pdb
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\bin\Debug\Resources\epa_seal_verysmall_trim.gif
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.dll.config
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.dll
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.pdb
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.xml
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.tlb
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\bin\Debug\Interop.MSXML2.dll
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\bin\Debug\Resources\epa_seal_verysmall_trim.gif
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.dll.config
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.pdb
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.xml
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\bin\Debug\EPAMetadataEditor.tlb
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\bin\Debug\Interop.MSXML2.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\Interop.MSXML2.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.vbproj.ResolveComReference.cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.BatchFindReplaceForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.Resources.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.SelectExportFormatsForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.SyncManagerForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.xml
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.pdb
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.vbprojResolveAssemblyReference.cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\obj\Debug\EPAMetadataEditor.vbproj.GenerateResource.Cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\bin\Debug\Resources\epa_seal_verysmall_trim.gif
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\bin\Debug\EPAMetadataEditor.dll.config
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\bin\Debug\EPAMetadataEditor.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\bin\Debug\EPAMetadataEditor.pdb
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\bin\Debug\EPAMetadataEditor.xml
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\bin\Debug\EPAMetadataEditor.tlb
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\bin\Debug\Interop.MSXML2.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.vbprojResolveAssemblyReference.cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\Interop.MSXML2.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.vbproj.ResolveComReference.cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.BatchFindReplaceForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.Resources.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.SelectExportFormatsForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.SyncManagerForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.vbproj.GenerateResource.Cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.xml
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\obj\Debug\EPAMetadataEditor.pdb

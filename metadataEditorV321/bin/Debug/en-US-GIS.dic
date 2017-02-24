@@ -1,0 +1,246 @@
+﻿[Copyright]
+
+[Try]
+esianrtolcdugmphbyfvkwESIANRTOLCDUGMPHBYFVKW
+
+[Replace]
+a ei
+ei a
+a ey
+ey a
+ai ie
+ie ai
+are air
+are ear
+are eir
+air are
+air ere
+ere air
+ere ear
+ere eir
+ear are
+ear air
+ear ere
+eir are
+eir ere
+ch te
+te ch
+ch ti
+ti ch
+ch tu
+tu ch
+ch s
+s ch
+ch k
+k ch
+f ph
+ph f
+gh f
+f gh
+i igh
+igh i
+i uy
+uy i
+i ee
+ee i
+j di
+di j
+j gg
+gg j
+j ge
+ge j
+s ti
+ti s
+s ci
+ci s
+k cc
+cc k
+k qu
+qu k
+kw qu
+o eau
+eau o
+o ew
+ew o
+oo ew
+ew oo
+ew ui
+ui ew
+oo ui
+ui oo
+ew u
+u ew
+oo u
+u oo
+u oe
+oe u
+u ieu
+ieu u
+ue ew
+ew ue
+uff ough
+oo ieu
+ieu oo
+ier ear
+ear ier
+ear air
+air ear
+w qu
+qu w
+z ss
+ss z
+shun tion
+shun sion
+shun cion
+
+[Prefix]
+
+[Suffix]
+
+[Phonetic]
+AH(AEIOUY)-^         *H
+AR(AEIOUY)-^         *R
+A(HR)^               *
+A^                   *
+AH(AEIOUY)-          H
+AR(AEIOUY)-          R
+A(HR)                _
+BB-                  _
+B                    B
+CQ-                  _
+CIA                  X
+CH                   X
+C(EIY)-              S
+CK                   K
+COUGH^               KF
+CC<                  C
+C                    K
+DG(EIY)              K
+DD-                  _
+D                    T
+É<                   E
+EH(AEIOUY)-^         *H
+ER(AEIOUY)-^         *R
+E(HR)^               *
+ENOUGH^$             *NF
+E^                   *
+EH(AEIOUY)-          H
+ER(AEIOUY)-          R
+E(HR)                _
+FF-                  _
+F                    F
+GN^                  N
+GN$                  N
+GNS$                 NS
+GNED$                N
+GH(AEIOUY)-          K
+GH                   _
+GG9                  K
+G                    K
+H                    H
+IH(AEIOUY)-^         *H
+IR(AEIOUY)-^         *R
+I(HR)^               *
+I^                   *
+ING6                 N
+IH(AEIOUY)-          H
+IR(AEIOUY)-          R
+I(HR)                _
+J                    K
+KN^                  N
+KK-                  _
+K                    K
+LAUGH^               LF
+LL-                  _
+L                    L
+MB$                  M
+MM                   M
+M                    M
+NN-                  _
+N                    N
+OH(AEIOUY)-^         *H
+OR(AEIOUY)-^         *R
+O(HR)^               *
+O^                   *
+OH(AEIOUY)-          H
+OR(AEIOUY)-          R
+O(HR)                _
+PH                   F
+PN^                  N
+PP-                  _
+P                    P
+Q                    K
+RH^                  R
+ROUGH^               RF
+RR-                  _
+R                    R
+SCH(EOU)-            SK
+SC(IEY)-             S
+SH                   X
+SI(AO)-              X
+SS-                  _
+S                    S
+TI(AO)-              X
+TH                   @
+TCH--                _
+TOUGH^               TF
+TT-                  _
+T                    T
+UH(AEIOUY)-^         *H
+UR(AEIOUY)-^         *R
+U(HR)^               *
+U^                   *
+UH(AEIOUY)-          H
+UR(AEIOUY)-          R
+U(HR)                _
+V^                   W
+V                    F
+WR^                  R
+WH^                  W
+W(AEIOU)-            W
+X^                   S
+X                    KS
+Y(AEIOU)-            Y
+ZZ-                  _
+Z                    S
+
+[Words]
+CAMD//KMT
+ESD//*ST
+geospatial//KSPXL
+GEOSS//KS
+GIS//KS
+metadata//MTTT
+NCEA//NS
+NCER//NS
+NEIC//NK
+NERL//NL
+NHEERL//NHL
+NRMRL//NRMRL
+OAP//*P
+OAR//*
+OBCR//*BKR
+OC//*K
+OCE//*S
+OCEFT//*SFT
+OECA//*K
+OEI//*
+OEM//*M
+OFA//*F
+OIAA//*
+OIC//*K
+OPP//*P
+OPPT//*PT
+OPPTS//*PTS
+ORD//*T
+ORIA//*R
+OSCP//*SKP
+OSRE//*SR
+OSRTI//*SRT
+OSW//*S
+OSWER//*SW
+OTAQ//*TK
+OTOP//*TP
+OUST//*ST
+OW//*
+ReVA//RF

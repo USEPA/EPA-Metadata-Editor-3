@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>United States Environmental Protection Agency - Office of Environmental Information (OEI)</origin>
+<pubdate>20130315</pubdate>
+<title>U.S. EPA Metadata Editor (EME) Version 3.2.1</title>
+<pubinfo>
+<pubplace>Washington, DC</pubplace>
+<publish>U.S. Environmental Protection Agency, Headquarters</publish>
+</pubinfo>
+<onlink>http://edg.epa.gov/EME/</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>The EPA Metadata Editor (EME) allows users to create geospatial metadata that meets EPA's requirements.  The tool has been developed as a desktop application that works as a standalone tool or as an extension to ESRI's ArcCatalog.  It provides a customized editing environment that allows users to select EPA defaults within the user interface, while also allowing users flexibility to specify their own defaults.</abstract>
+<purpose>The purpose of this tool is to allow EPA geospatial analysts to create metadata that meets EPA requirements more easily.</purpose>
+<supplinf>This is an EPA-Produced Application.  It is one in a series of enterprise geospatial resources published by USEPA.  Additional applications, data, and services can be found at the http://www.epa.gov/geospatial/ website.</supplinf>
+</descript>
+<timeperd>
+<current>Publication date</current>
+<timeinfo>
+<sngdate>
+<caldate>20130315</caldate>
+</sngdate>
+</timeinfo>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-168.21454852</westbc>
+<eastbc>-50.68151645</eastbc>
+<northbc>71.7110157</northbc>
+<southbc>16.65223303</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>environment</themekey>
+</theme>
+<theme>
+<themekt>EPA GIS Keyword Thesaurus</themekt>
+<themekey>Environment</themekey>
+<themekey>Management</themekey>
+</theme>
+<place>
+<placekt>none</placekt>
+<placekey>United States (US) (USA)</placekey>
+<placekey>conterminous United States (CONUS)</placekey>
+<placekey>Alaska</placekey>
+<placekey>Hawaii</placekey>
+<placekey>District of Columbia</placekey>
+<placekey>Washington DC</placekey>
+<placekey>American Samoa</placekey>
+<placekey>Puerto Rico</placekey>
+<placekey>Virgin Islands</placekey>
+<placekey>Alabama</placekey>
+<placekey>Arizona</placekey>
+<placekey>Arkansas</placekey>
+<placekey>California</placekey>
+<placekey>Colorado</placekey>
+<placekey>Connecticut</placekey>
+<placekey>Delaware</placekey>
+<placekey>Florida</placekey>
+<placekey>Georgia</placekey>
+<placekey>Idaho</placekey>
+<placekey>Illinois</placekey>
+<placekey>Indiana</placekey>
+<placekey>Iowa</placekey>
+<placekey>Kansas</placekey>
+<placekey>Kentucky</placekey>
+<placekey>Louisiana</placekey>
+<placekey>Maine</placekey>
+<placekey>Maryland</placekey>
+<placekey>Massachusetts</placekey>
+<placekey>Michigan</placekey>
+<placekey>Minnesota</placekey>
+<placekey>Mississippi</placekey>
+<placekey>Missouri</placekey>
+<placekey>Montana</placekey>
+<placekey>Nebraska</placekey>
+<placekey>Nevada</placekey>
+<placekey>New Hampshire</placekey>
+<placekey>New Jersey</placekey>
+<placekey>New Mexico</placekey>
+<placekey>New York</placekey>
+<placekey>North Carolina</placekey>
+<placekey>North Dakota</placekey>
+<placekey>Ohio</placekey>
+<placekey>Oklahoma</placekey>
+<placekey>Oregon</placekey>
+<placekey>Pennsylvania</placekey>
+<placekey>Rhode Island</placekey>
+<placekey>South Carolina</placekey>
+<placekey>South Dakota</placekey>
+<placekey>Tennessee</placekey>
+<placekey>Texas</placekey>
+<placekey>Utah</placekey>
+<placekey>Vermont</placekey>
+<placekey>Virginia</placekey>
+<placekey>Washington</placekey>
+<placekey>West Virginia</placekey>
+<placekey>Wisconsin</placekey>
+<placekey>Wyoming</placekey>
+</place>
+</keywords>
+<accconst>None.</accconst>
+<useconst>None.  While EPA has used its best efforts to include complete and accurate information in the EME, EPA cannot be held responsible for errors or omissions and is not liable for any direct, indirect or consequential damages resulting from using this information. Reliance on the information contained in this system by any party cannot be used as a defense in any administrative or judicial proceeding. In such proceedings, the specific language of the relevant regulation or statute is binding. Acknowledgement of the EPA would be appreciated.</useconst>
+<secinfo>
+<secsys>FIPS Pub 199</secsys>
+<secclass>No Confidentiality</secclass>
+<sechandl>Standard Technical Controls</sechandl>
+</secinfo>
+</idinfo>
+<dataqual>
+<logic>Not Applicable</logic>
+<complete>Not Applicable</complete>
+<posacc>
+<horizpa>
+<horizpar>Not Applicable</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<procstep>
+<procdate>20060728</procdate>
+<procdesc>EPA Metadata Editor Version 1.0 released</procdesc>
+</procstep>
+<procstep>
+<procdate>20070501</procdate>
+<procdesc>EPA Metadata Editor Version 2.0 released</procdesc>
+</procstep>
+<procstep>
+<procdate>20070703</procdate>
+<procdesc>EPA Metadata Editor Version 2.1 released</procdesc>
+</procstep>
+<procstep>
+<procdate>20081031</procdate>
+<procdesc>EPA Metadata Editor Version 3.0 released</procdesc>
+</procstep>
+<procstep>
+<procdate>20110331</procdate>
+<procdesc>EPA Metadata Editor Version 3.1 released</procdesc>
+</procstep>
+<procstep>
+<procdate>20110725</procdate>
+<procdesc>EPA Metadata Editor Version 3.1.1 released</procdesc>
+</procstep>
+<procstep>
+<procdate>20111109</procdate>
+<procdesc>EPA Metadata Editor Version 3.1.2 released</procdesc>
+</procstep>
+<procstep>
+<procdate>20130315</procdate>
+<procdesc>EPA Metadata Editor Version 3.2 released</procdesc>
+</procstep>
+<procstep>
+<procdate>20140901</procdate>
+<procdesc>EPA Metadata Editor Version 3.2.1 released</procdesc>
+</procstep>
+</lineage>
+</dataqual>
+<spref>
+<horizsys>
+<geograph>
+<latres>0.0000015</latres>
+<longres>0.0000015</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 1980</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<distinfo>
+<resdesc>Applications</resdesc>
+<distliab>While EPA has used its best efforts to include complete and accurate information in this system, EPA cannot be held responsible for errors or omissions and is not liable for any direct, indirect or consequential damages resulting from using this information. Reliance on the information contained in this system by any party cannot be used as a defense in any administrative or judicial proceeding. In such proceedings, the specific language of the relevant regulation or statute is binding. Acknowledgment of the EPA would be appreciated.</distliab>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>U.S. Environmental Protection Agency, Office of Environmental Information, Office of Information Collection</cntorg>
+<cntper>Lee Kyle</cntper>
+</cntorgp>
+<cntpos>Chief, Information Services and Support Branch</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>1200 Pennsylvania Avenue, N.W.</address>
+<city>Washington</city>
+<state>DC </state>
+<postal>20460</postal>
+</cntaddr>
+<cntvoice>202-564-4622</cntvoice>
+<cntemail>kyle.lee@epa.gov</cntemail>
+</cntinfo>
+</distrib>
+</distinfo>
+<metainfo>
+<metd>20130315</metd>
+<metfrd>20140315</metfrd>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>U.S. Environmental Protection Agency, Research Triangle Park</cntorg>
+<cntper>EPA GIS Agency Central Support</cntper>
+</cntorgp>
+<cntpos>OEI RTP NCC GIS</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>USEPA Mailroom N127-02</address>
+<city>Research Triangle Park</city>
+<state>NC</state>
+<postal>27711</postal>
+</cntaddr>
+<cntvoice>919-767-7493</cntvoice>
+<cntemail>edg@epa.gov</cntemail>
+</cntinfo>
+</metc>
+</metainfo>
+</metadata>

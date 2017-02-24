@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<!--  ================================================================== -->
+<!-- Part 1  -  Identification Information: Minimum FGDC Required  -->
+<!--  ================================================================== -->
+<idinfo>
+<citation>
+<citeinfo>
+<!-- Change to specific office -->
+<origin>USEPA XYZ Region Program or Lab</origin>
+<!-- Change to your data specific needs this must be a date either YYYY OR YYYYMMDD -->
+<pubdate>2007</pubdate>
+<!-- Change to your data specific needs -->
+<title>Generic EPA Geospatial Metadata Template for Downloadable Data</title>
+<pubinfo>
+	<pubplace>City, State</pubplace>
+	<publish>U.S. Environmental Protection Agency</publish>
+</pubinfo>
+<!-- This should be the correct nomenclature for your services -->
+<onlink>http://www.epa.gov</onlink>
+<onlink>http://ftp.epa.gov/</onlink>
+</citeinfo>
+</citation>
+<descript>
+	<!-- Change to your data specific needs -->
+	<abstract>These data were developed to ___.</abstract>
+	<!-- Change to your data specific needs -->
+	<purpose>The purpose of this data set is to ___.</purpose>
+	<!-- Change to your data specific needs -->
+	<supplinf>This is an EPA-produced data set.  Additional information regarding this data set is available at ___.</supplinf>
+</descript>
+<!-- Data Set Time Period: change to reflect needs YYYY or YYYYMMDD -->
+<timeperd>
+<timeinfo>
+	<sngdate>
+	<caldate>2006</caldate>
+	</sngdate>
+</timeinfo>
+<!-- What are your data current to? -->
+<current>publication date</current>
+</timeperd>
+<status>
+	<!-- Change to status of your work - what is the level of progress and how often do you update -->
+	<progress>In work</progress>
+	<update>As needed</update>
+</status>
+<!-- Important to update to UL and LR coordinates of your data set -->
+<spdom>
+	<bounding>
+	<westbc>-138.21454852</westbc>
+	<eastbc>-12.68151645</eastbc>
+	<northbc>61.7110157</northbc>
+	<southbc>6.65223303</southbc>
+	</bounding>
+</spdom>
+<keywords>
+<theme>
+<!-- One ISO Keyword is required; change category your data specific needs the list is in the EPA guidance -->
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>environment</themekey>
+</theme>
+<!-- Use EPA Keywords where applicable; the list is in the EPA guidance -->
+<theme>
+<themekt>EPA GIS Keyword Thesaurus</themekt>
+	<themekey>Ecology</themekey>
+</theme>
+
+<place>
+<placekt>None</placekt>
+	<placekey>United States</placekey>
+</place>
+</keywords>
+<!-- Change these to any restrictions on your data set -->
+<accconst>None.</accconst>
+<useconst>None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the EPA would be appreciated.</useconst>
+<!-- Who to contact regarding questions about the data specifically -->
+<ptcontac>
+<cntinfo>
+	<cntorgp>
+	<cntorg>USEPA XYZ Region Program or Lab</cntorg>
+	<cntper></cntper>
+	</cntorgp>
+	<cntaddr>
+	<addrtype>mailing and physical</addrtype>
+	<address></address>
+	<city></city>
+	<state></state>
+	<postal></postal>
+	</cntaddr>
+	<cntvoice></cntvoice>
+	<cntemail></cntemail>
+	</cntinfo>
+</ptcontac>
+<secinfo>
+	<secsys>FIPS Pub 199</secsys>
+	<!-- Change  to  classification relevant for your data set High, Medium, No -->
+	<secclass>No Confidentiality</secclass>
+	<sechandl>Standard Technical Controls</sechandl>
+	</secinfo>
+</idinfo>
+<!--  ================================================================== -->
+<!-- Part 2  -  Data Quality Information EPA Mandatory; not Minimum FGDC -->
+<!--  ================================================================== -->
+<dataqual>
+<logic>Not presently available</logic>
+<complete>In Progress</complete>
+<posacc>
+<horizpa>
+<!-- Change  to  description relevant for your data set -->
+<horizpar>Positional accuracy for the data set varies for individual features within the data set.  Actual horizontal positional accuracy for the data set is unknown.</horizpar>
+</horizpa>
+</posacc>
+<lineage>
+<!-- Change  to  description relevant for your data set if you do processing -->
+	<procstep>
+	<procdesc>Metadata Created</procdesc>
+	<procdate>2006</procdate>
+	</procstep>
+</lineage>
+
+</dataqual>
+<!--  ===================================================================== -->
+<!--Part 4  -  Spatial Reference Information: EPA Required; not Minimum FGDC -->
+<!--  ===================================================================== -->
+<!-- VERY IMPORTANT. Projection Information. Please change to your specifics -->
+<spref>
+<horizsys>
+<geograph>
+<latres>0.000001</latres>
+<longres>0.000001</longres>
+<geogunit>Decimal degrees</geogunit>
+</geograph>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 1980</ellips>
+<semiaxis>6378137.0000000</semiaxis>
+<denflat>298.2572221</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<!--  ============================================================== -->
+<!--  Part 6  -  Distribution Information.  resdesc used for ArcIMS  -->
+<!--  ============================================================== -->
+<distinfo>
+<distrib>
+<!-- Who to contact regarding distribution of the data -->
+<cntinfo>
+	<cntorgp>
+	<cntorg>USEPA XYZ Region Program or Lab</cntorg>
+	<cntper></cntper>
+	</cntorgp>
+	<cntaddr>
+	<addrtype>mailing and physical</addrtype>
+	<address></address>
+	<city></city>
+	<state></state>
+	<postal></postal>
+	</cntaddr>
+	<cntvoice></cntvoice>
+	<cntfax></cntfax>
+	<cntemail></cntemail>
+</cntinfo>
+</distrib>
+<!-- Reflect specifics of your data set there is an acceptable list in the EPA guidance-->
+<resdesc>Downloadable Data</resdesc>
+<!-- Add Not to be distributed if the data cannot be distributed -->
+<distliab>Although these data have been processed successfully on a computer system at the Environmental Protection Agency, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. Environmental Protection Agency shall not be held liable for improper or incorrect use of the data described and/or contained herein.</distliab>
+</distinfo>
+<!--  ============================================================== -->
+<!-- Part 7  - Metadata Reference Information: Minimum FGDC Required -->
+<!--  ============================================================== -->
+<metainfo>
+<metd>2007</metd>
+<!-- Should be 4 years from metadata data at a minimum -->
+<metfrd>2011</metfrd>
+<metc>
+<!-- Who to contact regarding the metadata specifically -->
+<cntinfo>
+<cntorgp>
+<cntorg>USEPA XYZ Region Program or Lab</cntorg>
+<cntper></cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address></address>
+<city></city>
+<state></state>
+<postal></postal>
+</cntaddr>
+<cntvoice></cntvoice>
+<cntfax></cntfax>
+<cntemail></cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+</metainfo>
+</metadata>

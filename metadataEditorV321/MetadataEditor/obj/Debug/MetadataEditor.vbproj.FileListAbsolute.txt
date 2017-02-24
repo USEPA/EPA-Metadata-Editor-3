@@ -1,0 +1,90 @@
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\ResGen.read.1.tlog
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\ResGen.write.1.tlog
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.DummyForm.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.EditorForm.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.FindReplaceForm.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.Resources.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.ProgressDialog.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.SpaciousEntryForm.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.SplashScreen.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\bin\Debug\MetadataEditor.exe.config
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\bin\Debug\MetadataEditor.exe
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\bin\Debug\MetadataEditor.pdb
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.exe
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.pdb
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.AboutBox.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\bin\Debug\Interop.MSXML2.dll
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\Interop.MSXML2.dll
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.vbproj.ResolveComReference.cache
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\bin\Debug\MetadataEditor.xml
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.xml
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.ContactForm.resources
+C:\Users\aergul\Documents\Visual Studio 2010\Projects\metadataEditorV31\MetadataEditor\obj\Debug\MetadataEditor.CitationForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\Interop.MSXML2.dll
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.vbproj.ResolveComReference.cache
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\ResGen.read.1.tlog
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\ResGen.write.1.tlog
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.xml
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.pdb
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\MetadataEditor.exe.config
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\MetadataEditor.exe
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\MetadataEditor.pdb
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\MetadataEditor.xml
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\Interop.MSXML2.dll
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.AboutBox.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.CitationForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.ContactForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.DummyForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.EditorForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.FindReplaceForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.Resources.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.ProgressDialog.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.SpaciousEntryForm.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.SplashScreen.resources
+C:\Users\aergul\Desktop\EME_send_to_Dan\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.exe
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\MetadataEditor.exe.config
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\MetadataEditor.exe
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\MetadataEditor.pdb
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\MetadataEditor.xml
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\bin\Debug\Interop.MSXML2.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\Interop.MSXML2.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.vbproj.ResolveComReference.cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.AboutBox.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.CitationForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.ContactForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.DummyForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.EditorForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.FindReplaceForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.Resources.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.ProgressDialog.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.SpaciousEntryForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.SplashScreen.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.exe
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.xml
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.pdb
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.vbprojResolveAssemblyReference.cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v32_main_codebase\metadataEditorV32\MetadataEditor\obj\Debug\MetadataEditor.vbproj.GenerateResource.Cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\bin\Debug\MetadataEditor.exe.config
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\bin\Debug\MetadataEditor.exe
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\bin\Debug\MetadataEditor.pdb
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\bin\Debug\MetadataEditor.xml
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\bin\Debug\Interop.MSXML2.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.vbprojResolveAssemblyReference.cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\Interop.MSXML2.dll
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.vbproj.ResolveComReference.cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.AboutBox.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.CitationForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.ContactForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.DummyForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.EditorForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.FindReplaceForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.Resources.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.ProgressDialog.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.SpaciousEntryForm.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.SplashScreen.resources
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.vbproj.GenerateResource.Cache
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.exe
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.xml
+C:\aInnovate\Projects\EME\EME_v321_20131205\EME_v321_source_release\metadataEditorV321\MetadataEditor\obj\Debug\MetadataEditor.pdb

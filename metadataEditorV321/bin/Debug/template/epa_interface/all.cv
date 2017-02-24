@@ -1,0 +1,85 @@
+<cv>
+  <ul id="resdesc">
+    <li>Live Data and Maps</li>
+    <li>Downloadable Data</li>
+    <li>Offline Data</li>
+    <li>Map Files</li>
+    <li>Static Map Images</li>
+    <li>Other Documents</li>
+    <li>Applications</li>
+    <li>Clearinghouses</li>
+    <li>Geographic Activities</li>
+  </ul>
+  <ul id="geo1">
+    <li>farming</li>
+    <li>biota</li>
+    <li>boundaries</li>
+    <li>climatologyMeteorologyAtmosphere</li>
+    <li>economy</li>
+    <li>elevation</li>
+    <li>environment</li>
+    <li>geoscientificInformation</li>
+    <li>health</li>
+    <li>imageryBaseMapsEarthCover</li>
+    <li>intelligenceMilitary</li>
+    <li>inlandWaters</li>
+    <li>location</li>
+    <li>oceans</li>
+    <li>planningCadastre</li>
+    <li>society</li>
+    <li>structure</li>
+    <li>transportation</li>
+    <li>utilitiesCommunication</li>
+  </ul>
+
+  <ul id="epa">
+	<li>Management</li>
+	<li>Disaster</li>
+	<li>Emergency</li>
+	<li>Energy</li>
+	<li>Environment</li>
+	<li>Monitoring</li>
+	<li>Air</li>
+	<li>Water</li>
+	<li>Land</li>
+	<li>Biology</li>
+	<li>Ecosystem</li>
+	<li>Remediation</li>
+	<li>Cleanup</li>
+	<li>Contaminant</li>
+	<li>Spills</li>
+	<li>Response</li>
+	<li>Hazards</li>
+	<li>Waste</li>
+	<li>Pesticides</li>
+	<li>Toxics</li>
+	<li>Compliance</li>
+	<li>Impact</li>
+	<li>Indicator</li>
+	<li>Risk</li>
+	<li>Exposure</li>
+	<li>Modeling</li>
+	<li>Quality</li>
+	<li>Indoor Air</li>
+	<li>Radiation</li>
+	<li>Climate</li>
+	<li>Surface Water</li>
+	<li>Ground Water</li>
+	<li>Marine</li>
+	<li>Estuary</li>
+	<li>Drinking Water</li>
+	<li>Health</li>
+	<li>Human</li>
+	<li>Natural Resources</li>
+	<li>Conservation</li>
+	<li>Recreation</li>
+	<li>Agriculture</li>
+	<li>Ecology</li>
+	<li>Transportation</li>
+	<li>Regulatory</li>
+	<li>Inspections</li>
+	<li>Permits</li>
+	<li>Facilities</li>
+	<li>Sites</li>
+  </ul>
+</cv>
