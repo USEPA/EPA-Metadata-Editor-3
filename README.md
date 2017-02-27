@@ -1,7 +1,7 @@
 # EPA Metadata Editor v3.2.1
 EME 3.2.1 is intended for geospatial metadata authors that need to create records that meet Federal Office of Management and Budget (OMB) Open Data Policy requirements. EME v3.2.1 maintains the FGDC CSDGM schema that was present in previous versions while including minor updates to ensure minimal OMB compliance.
 
-Additional information and resources can be found on the <a href="https://github.com/USEPA/EPA-Metadata-Editor-3/wiki"> EPA Metadata Editor 4.2.1</a> Wiki.
+Additional information and resources can be found on the <a href="https://github.com/USEPA/EPA-Metadata-Editor-3/wiki"> EPA Metadata Editor 3.2.1</a> Wiki.
 
 The EME installation files and source code are found under <a href="https://github.com/USEPA/EPA-Metadata-Editor-3/releases"> releases</a>.
 #EPA Disclaimer
